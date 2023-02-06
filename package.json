@@ -1,0 +1,29 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js -e js,html,css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scarlatcristian/ChatApp.git"
+  },
+  "author": "cristi scarlat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scarlatcristian/ChatApp/issues"
+  },
+  "homepage": "https://github.com/scarlatcristian/ChatApp#readme",
+  "dependencies": {
+    "bad-words": "^3.0.4",
+    "express": "^4.18.2",
+    "path": "^0.12.7",
+    "socket.io": "^4.5.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
