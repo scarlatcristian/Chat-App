@@ -13,25 +13,8 @@ This is a simple chat application built with Node.js, Express, and Socket.io. It
 ## Installation
 
 1. Clone the repository:
-
-git clone <repository-url>
-
-markdown
-Copy code
-
 2. Install dependencies:
-
-npm install
-
-markdown
-Copy code
-
 3. Run the server:
-
-npm start
-
-markdown
-Copy code
 
 ## Usage
 
